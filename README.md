@@ -83,13 +83,10 @@ IRR is **strictly analytical** and defensive in nature:
 ### Quick Setup
 
 ```bash
-# Download IRR
-wget https://example.com/irr.py
-# or
-curl -O https://example.com/irr.py
-
 # Install dependencies
 pip install pyyaml
+
+git clone github.com/JustAaronHere/I.R.R.git
 
 # Make executable (Linux/macOS)
 chmod +x irr.py
